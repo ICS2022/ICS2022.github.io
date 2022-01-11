@@ -889,27 +889,27 @@ img.pull-right {
   .main-slider .owl-item.active .banner-item .banner-content-wrap h1.banner-title,
   .main-slider .owl-item.active .banner-item .banner-content-wrap .banner-desc,
   .main-slider .owl-item.active .banner-item .banner-content-wrap .banner-btn {
-    -webkit-animation-name: fadeInUpBig;
+  /*  -webkit-animation-name: fadeInUpBig;
     animation-name: fadeInUpBig;
     -webkit-animation-duration: 1.5s;
     animation-duration: 1.5s;
     -webkit-animation-fill-mode: both;
-    animation-fill-mode: both; }
+    animation-fill-mode: both; */}
   .main-slider .owl-item.active .banner-item .banner-content-wrap .title-shap-img {
-    -webkit-animation-duration: 1.5s;
-    animation-duration: 1.5s; }
+    /*-webkit-animation-duration: 1.5s;
+    animation-duration: 1.5s;*/ }
   .main-slider .owl-item.active .banner-item .banner-content-wrap p.banner-title {
-    -webkit-animation-duration: 2s;
-    animation-duration: 2s; }
+    /*-webkit-animation-duration: 2s;
+    animation-duration: 2s;*/ }
   .main-slider .owl-item.active .banner-item .banner-content-wrap h1.banner-title {
-    -webkit-animation-duration: 2.5s;
-    animation-duration: 2.5s; }
+    /*-webkit-animation-duration: 2.5s;
+    animation-duration: 2.5s;*/ }
   .main-slider .owl-item.active .banner-item .banner-content-wrap p.banner-desc {
-    -webkit-animation-duration: 3s;
-    animation-duration: 3s; }
+    /*-webkit-animation-duration: 3s;
+    animation-duration: 3s;*/ }
   .main-slider .owl-item.active .banner-item .banner-content-wrap .banner-btn {
-    -webkit-animation-duration: 3.5s;
-    animation-duration: 3.5s; }
+    /*-webkit-animation-duration: 3.5s;
+    animation-duration: 3.5s;*/ }
   .main-slider .owl-dots {
     position: absolute;
     left: 0;
