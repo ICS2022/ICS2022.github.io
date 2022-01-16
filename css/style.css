@@ -894,22 +894,22 @@ img.pull-right {
     -webkit-animation-duration: 1.5s;
     animation-duration: 1.5s;
     -webkit-animation-fill-mode: both;
-    animation-fill-mode: both; */}
+  animation-fill-mode: both;*/ }
   .main-slider .owl-item.active .banner-item .banner-content-wrap .title-shap-img {
-    /*-webkit-animation-duration: 1.5s;
-    animation-duration: 1.5s;*/ }
+    -webkit-animation-duration: 1.5s;
+    animation-duration: 1.5s; }
   .main-slider .owl-item.active .banner-item .banner-content-wrap p.banner-title {
-    /*-webkit-animation-duration: 2s;
-    animation-duration: 2s;*/ }
+    -webkit-animation-duration: 2s;
+    animation-duration: 2s; }
   .main-slider .owl-item.active .banner-item .banner-content-wrap h1.banner-title {
-    /*-webkit-animation-duration: 2.5s;
-    animation-duration: 2.5s;*/ }
+    -webkit-animation-duration: 2.5s;
+    animation-duration: 2.5s; }
   .main-slider .owl-item.active .banner-item .banner-content-wrap p.banner-desc {
-    /*-webkit-animation-duration: 3s;
-    animation-duration: 3s;*/ }
+    -webkit-animation-duration: 3s;
+    animation-duration: 3s; }
   .main-slider .owl-item.active .banner-item .banner-content-wrap .banner-btn {
-    /*-webkit-animation-duration: 3.5s;
-    animation-duration: 3.5s;*/ }
+    -webkit-animation-duration: 3.5s;
+    animation-duration: 3.5s; }
   .main-slider .owl-dots {
     position: absolute;
     left: 0;
@@ -1202,7 +1202,7 @@ img.pull-right {
     -ms-border-radius: 50%;
     overflow: hidden;
     margin: auto auto 20px; }
-    .ts-speaker .speaker-img img {
+    /*.ts-speaker .speaker-img img {
       width: 100%;
       -webkit-transform: scale(1);
       -ms-transform: scale(1);
@@ -1211,7 +1211,7 @@ img.pull-right {
       transition: all 0.4s ease;
       -webkit-transition: all 0.4s ease;
       -moz-transition: all 0.4s ease;
-      -ms-transition: all 0.4s ease; }
+    -ms-transition: all 0.4s ease;  }
     .ts-speaker .speaker-img:before {
       position: absolute;
       left: 0;
@@ -1269,7 +1269,7 @@ img.pull-right {
     color: #e7015e; }
   .ts-speaker.white-text .ts-title a,
   .ts-speaker.white-text p {
-    color: #fff; }
+  color: #fff; } */
 
 .speaker-classic {
   padding-top: 100px; }
